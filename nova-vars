@@ -1,0 +1,4 @@
+#/bin/sh
+export OS_AUTH_URL="https://api.binarylane.com.au/v2.0"
+export OS_TENANT_NAME="binarylane"
+export OS_USERNAME="magnetoex@gmail.com"
