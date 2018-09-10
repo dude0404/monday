@@ -13,3 +13,4 @@ deployment steps:
 1. set up vps's
 cd terraform && ../bin/terraform apply
 
+end

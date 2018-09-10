@@ -29,7 +29,7 @@ resource "openstack_compute_instance_v2" "host_mel_2" {
   #key_pair        = "my_key_pair_name"
   #security_groups = ["default"]
 
- # network {
- #   name = "vpc_mel"
- # }
+  network {
+    name = "vpc_mel"
+  }
 }
